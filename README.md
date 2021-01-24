@@ -1,5 +1,14 @@
 # deu-signal-cagirkan
-deu-signal-cagirkan created by GitHub Classroom
+Nowadays, instant messaging applications are used very often by end users. WhatsApp, the
+most popular of these applications, recently announced that it will make some changes in the
+security policy it will follow in our country. With this development, such applications
+immediately have been discussed by people and the search for a more secure application has
+started.
+With this assignment, you will start to develop an instant messaging application. You will
+implement the first phase for this application. In the first phase, people can send non-secure
+messages to others using the messaging server. They can be sent and received using JSON
+format that contains from, to and message key-fields. In this system, we must have a
+messaging server and we may have more than a client.
 ## Usage
 USAGE: SIMPLY COMPILE AND RUN THE CLIENT AND SERVER PROGRAM WITHOUT PARAMETERS.
 
