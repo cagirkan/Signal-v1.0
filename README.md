@@ -11,6 +11,13 @@ PHONE NUMBER MUST BE EXACT 11 CHARS.
 
 SOME IMPORTANT MESSAGES SHOWN IN SERVER SIDE WHEN RUNNING.
 
+```bash
+gcc -pthread 2018510100_server.c -o 2018510100_server
+gcc -pthread 2018510100_client.c -o 2018510100_client
+./server
+./client
+```
+
 ## Commands
 ```bash
 -whoami: shows phone number of client
